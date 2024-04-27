@@ -1,0 +1,45 @@
+h1{
+  color: white;
+  margin-top: 120px;
+  padding: 0 90px;
+  font-size: 100px;
+  display: flex;
+  margin-top: -200px;
+}
+h4{
+  color: white;
+  display: flex;
+  margin-left: 855px;
+  margin-top: 250px;
+  line-height: 28px;
+  font-size: 18;
+  font-weight: 600;
+}
+
+.section{
+  background: linear-gradient(#023136, #014E56);
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 15px;
+  height: 540px;
+}
+
+span{
+  color: red;
+}
+
+.image{
+ margin-left: 850px;
+ margin-top: 30px;
+}
+
+.hr{
+  width: 50px;
+  margin-left: 5px;
+  margin-top: -300px;
+  background-color: yellow;
+  color: yellow;
+  border: yellow;
+
+}
